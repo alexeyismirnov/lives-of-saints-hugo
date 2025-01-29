@@ -1,0 +1,27 @@
+baseURL = 'https://alexey-hugo-test.web.app/'
+languageCode = 'en-us'
+title = 'Lives of saints'
+theme = 'hugo-theme-relearn'
+
+[params]
+  themeVariant = ['relearn-bright']
+  disableSearch = true
+  disableSearchIndex = true
+  disableSearchPage = true
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    title = 'Lives of Saints'
+    weight = 10
+    [languages.en.params]
+      landingPageName = 'Home'
+
+  [languages.ru]
+    contentDir = 'content/ru'
+    languageName = 'Russian'
+    title = 'Жития святых'
+    weight = 20
+    [languages.ru.params]
+      landingPageName = 'Главная'
