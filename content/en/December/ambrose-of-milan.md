@@ -1,0 +1,9 @@
++++
+draft = false
+hidden = true
+linkTitle = 'Ambrose of Milan'
+description = '20 December'
+weight = 20
++++
+
+{{% include file="content/en/lives/ambrose-of-milan.md" %}}

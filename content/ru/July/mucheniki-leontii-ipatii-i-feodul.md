@@ -1,0 +1,9 @@
++++
+draft = false
+hidden = true
+linkTitle = 'Мученики Леонтий, Ипатий и Феодул'
+description = '1 July'
+weight = 1
++++
+
+{{% include file="content/ru/lives/mucheniki-leontii-ipatii-i-feodul.md" %}}
