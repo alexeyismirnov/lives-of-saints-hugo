@@ -20,7 +20,7 @@ title = "{0}"
 type = "chapter"
 +++
 
-{{% children description="true" sort="weight" showhidden="true" %}}
+{{{{% children description="true" sort="weight" showhidden="true" %}}}}
 """.format(month)
 
 with open("output/%s/_index.md" % month, "w+") as f:
@@ -42,7 +42,7 @@ description = '{1}'
 weight = {2}
 +++
 
-{{% include file="content/{3}/lives/{4} %}}
+{{{{% include file="content/{3}/lives/{4}" %}}}}
 """.format(title, s['date'], day, lang, filename)
 
         with open("output/%s/%s" % (month, filename), "w+") as f:
