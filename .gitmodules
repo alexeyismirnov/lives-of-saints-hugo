@@ -4,3 +4,6 @@
 [submodule "content/en/lives"]
 	path = content/en/lives
 	url = https://github.com/alexeyismirnov/gitbook-lives-en.git
+[submodule "content/ru/lives"]
+	path = content/ru/lives
+	url = https://github.com/alexeyismirnov/gitbook-lives-ru.git
