@@ -7,3 +7,6 @@
 [submodule "content/ru/lives"]
 	path = content/ru/lives
 	url = https://github.com/alexeyismirnov/gitbook-lives-ru.git
+[submodule "themes/hugo-shortcode-roneo-collection"]
+	path = themes/hugo-shortcode-roneo-collection
+	url = https://gitlab.com/Roneo/hugo-shortcode-roneo-collection.git
