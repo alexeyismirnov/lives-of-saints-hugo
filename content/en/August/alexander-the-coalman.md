@@ -7,3 +7,4 @@ weight = 25
 +++
 
 {{% include file="content/en/lives/alexander-the-coalman.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/ALEXANDER_THE_COALMAN.mp3" >}}

@@ -7,3 +7,4 @@ weight = 27
 +++
 
 {{% include file="content/en/lives/azades-and-1000-martyrs-of-persia.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/AZADES.mp3" >}}
