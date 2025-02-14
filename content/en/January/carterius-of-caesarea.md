@@ -7,3 +7,4 @@ weight = 21
 +++
 
 {{% include file="content/en/lives/carterius-of-caesarea.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/CARTERIUS_OF_CAESAREA.mp3" >}}

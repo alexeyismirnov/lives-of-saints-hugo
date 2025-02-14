@@ -7,3 +7,4 @@ weight = 11
 +++
 
 {{% include file="content/en/lives/beheading-of-john-the-baptist.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/BEHEADING_OF_JOHN_THE_BAPTIST.mp3" >}}

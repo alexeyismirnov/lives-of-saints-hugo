@@ -7,3 +7,4 @@ weight = 13
 +++
 
 {{% include file="content/en/lives/gregory-of-armenia.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/GREGORY_OF_ARMENIA.mp3" >}}
