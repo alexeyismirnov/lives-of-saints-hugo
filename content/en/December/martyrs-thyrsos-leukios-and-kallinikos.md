@@ -7,3 +7,4 @@ weight = 27
 +++
 
 {{% include file="content/en/lives/martyrs-thyrsos-leukios-and-kallinikos.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/MARTYRS_THYRSOS_LEUKIOS_AND_KALLINIKOS.mp3" >}}
