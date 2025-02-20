@@ -7,3 +7,4 @@ weight = 21
 +++
 
 {{% include file="content/en/lives/patriarch-ephraim-of-antioch.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/PATRIARCH_EPHRAIM_OF_ANTIOCH.mp3" >}}

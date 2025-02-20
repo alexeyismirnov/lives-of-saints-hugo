@@ -7,3 +7,4 @@ weight = 28
 +++
 
 {{% include file="content/en/lives/pachomius-the-great.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/PACHOMIUS_THE_GREAT.mp3" >}}
