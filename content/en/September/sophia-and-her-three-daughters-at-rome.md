@@ -7,3 +7,4 @@ weight = 30
 +++
 
 {{% include file="content/en/lives/sophia-and-her-three-daughters-at-rome.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/SOPHIA_AND_DAUGHTERS.mp3" >}}
