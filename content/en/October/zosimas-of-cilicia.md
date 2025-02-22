@@ -7,3 +7,4 @@ weight = 2
 +++
 
 {{% include file="content/en/lives/zosimas-of-cilicia.md" %}}
+{{< audio "https://orthodoxy.sgp1.cdn.digitaloceanspaces.com/fr-augustin/ZOSIMAS_OF_CILICIA.mp3" >}}
