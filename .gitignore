@@ -68,5 +68,7 @@ node_modules/
 # Hugo
 public/
 
+.DS_Store
+
 # temp files
 scripts/output/

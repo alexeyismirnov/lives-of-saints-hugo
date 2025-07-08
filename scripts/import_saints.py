@@ -11,7 +11,7 @@ if len(sys.argv) != 3:
     sys.exit(0)
 
 month =  sys.argv[2]
-lang = 'ru'
+lang = 'en'
 
 Path("output/%s" % month).mkdir(parents=True, exist_ok=True)
 
@@ -23,8 +23,8 @@ type = "chapter"
 {{{{% children description="true" sort="weight" showhidden="true" %}}}}
 """.format(month)
 
-with open("output/%s/_index.md" % month, "w+") as f:
-    f.writelines(chapterTemplate)
+#with open("output/%s/_index.md" % month, "w+") as f:
+#    f.writelines(chapterTemplate)
 
 with open(sys.argv[1]) as f:
     arr = [p for p in json.load(f) if month in p['date']]
