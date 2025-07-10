@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Феодул Константинопольский'
-description = '16 December'
+description = '16 декабря'
 weight = 16
 +++
 

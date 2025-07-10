@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Второй Вселенский Собор'
-description = '4 June'
+description = '4 июня'
 weight = 4
 +++
 

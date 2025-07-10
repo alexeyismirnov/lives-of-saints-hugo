@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Патриарх Иерусалимский Модест'
-description = '31 December'
+description = '31 декабря'
 weight = 31
 +++
 

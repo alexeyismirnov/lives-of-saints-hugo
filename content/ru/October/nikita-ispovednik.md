@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Никита Исповедник'
-description = '26 October'
+description = '26 октября'
 weight = 26
 +++
 

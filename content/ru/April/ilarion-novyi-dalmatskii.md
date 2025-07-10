@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Иларион Новый Далматский'
-description = '10 April'
+description = '10 апреля'
 weight = 10
 +++
 

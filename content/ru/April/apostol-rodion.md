@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Апостол Родион'
-description = '21 April'
+description = '21 апреля'
 weight = 21
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Василий Амасийский'
-description = '9 May'
+description = '9 мая'
 weight = 9
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Амвросий Медиоланский'
-description = '20 December'
+description = '20 декабря'
 weight = 20
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Философ Египетский'
-description = '13 June'
+description = '13 июня'
 weight = 13
 +++
 

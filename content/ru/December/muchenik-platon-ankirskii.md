@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Платон Анкирский'
-description = '1 December'
+description = '1 декабря'
 weight = 1
 +++
 

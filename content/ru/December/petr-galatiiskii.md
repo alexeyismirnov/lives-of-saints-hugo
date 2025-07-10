@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Петр Галатийский'
-description = '8 December'
+description = '8 декабря'
 weight = 8
 +++
 

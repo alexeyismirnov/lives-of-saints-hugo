@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Симеон Новый Богослов'
-description = '25 March'
+description = '25 марта'
 weight = 25
 +++
 

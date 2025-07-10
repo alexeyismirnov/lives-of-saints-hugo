@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Возвращение Иоанна Златоуста'
-description = '26 November'
+description = '26 ноября'
 weight = 26
 +++
 

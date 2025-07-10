@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Царица Феофания'
-description = '29 December'
+description = '29 декабря'
 weight = 29
 +++
 

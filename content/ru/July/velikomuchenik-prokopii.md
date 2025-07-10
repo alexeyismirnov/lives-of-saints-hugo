@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Великомученик Прокопий'
-description = '21 July'
+description = '21 июля'
 weight = 21
 +++
 

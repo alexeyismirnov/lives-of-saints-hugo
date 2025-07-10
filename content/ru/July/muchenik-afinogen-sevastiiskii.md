@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Афиноген Севастийский'
-description = '29 July'
+description = '29 июля'
 weight = 29
 +++
 

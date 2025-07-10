@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Феогний, Агапий, Пист и матерь их Васса'
-description = '3 September'
+description = '3 сентября'
 weight = 3
 +++
 

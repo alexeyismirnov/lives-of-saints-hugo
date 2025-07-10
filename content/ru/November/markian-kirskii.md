@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Маркиан Кирский'
-description = '15 November'
+description = '15 ноября'
 weight = 15
 +++
 

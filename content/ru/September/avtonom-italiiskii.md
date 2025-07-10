@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Автоном Италийский'
-description = '25 September'
+description = '25 сентября'
 weight = 25
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Семь спящих отроков Эфесских'
-description = '4 November'
+description = '4 ноября'
 weight = 4
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Стефан Савваит'
-description = '26 July'
+description = '26 июля'
 weight = 26
 +++
 

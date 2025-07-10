@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Первомученик Ражден'
-description = '16 August'
+description = '16 августа'
 weight = 16
 +++
 

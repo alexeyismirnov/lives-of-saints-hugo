@@ -6,12 +6,27 @@ import pprint as p
 from pathlib import Path
 import json
 
+def date_translate(date_string, lang):
+    if lang != "ru":
+        return date_string
+
+    months = {
+        'January': 'января', 'February': 'февраля', 'March': 'марта',
+        'April': 'апреля', 'May': 'мая', 'June': 'июня',
+        'July': 'июля', 'August': 'августа', 'September': 'сентября',
+        'October': 'октября', 'November': 'ноября', 'December': 'декабря'
+    }
+
+    day, month = date_string.split()
+    return f"{day} {months[month]}"
+
+
 if len(sys.argv) != 3:
     print("Usage: %s filename.json month" % sys.argv[0])
     sys.exit(0)
 
 month =  sys.argv[2]
-lang = 'en'
+lang = 'ru'
 
 Path("output/%s" % month).mkdir(parents=True, exist_ok=True)
 
@@ -43,7 +58,7 @@ weight = {2}
 +++
 
 {{{{% include file="content/{3}/lives/{4}" %}}}}
-""".format(title, s['date'], day, lang, filename)
+""".format(title, date_translate(s['date'], lang), day, lang, filename)
 
         with open("output/%s/%s" % (month, filename), "w+") as f:
             f.writelines(pageTemplate)

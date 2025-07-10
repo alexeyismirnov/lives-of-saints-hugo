@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Епископ Прокл Константинопольский'
-description = '3 December'
+description = '3 декабря'
 weight = 3
 +++
 

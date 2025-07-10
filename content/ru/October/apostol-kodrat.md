@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Апостол от 70-ти Кодрат'
-description = '4 October'
+description = '4 октября'
 weight = 4
 +++
 

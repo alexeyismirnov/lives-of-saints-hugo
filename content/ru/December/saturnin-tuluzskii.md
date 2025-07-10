@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Сатурнин Тулузский'
-description = '12 December'
+description = '12 декабря'
 weight = 12
 +++
 

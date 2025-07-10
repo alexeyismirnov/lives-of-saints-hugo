@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Исидор Хиосский'
-description = '27 May'
+description = '27 мая'
 weight = 27
 +++
 

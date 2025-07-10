@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Лонгин Сотник'
-description = '29 October'
+description = '29 октября'
 weight = 29
 +++
 

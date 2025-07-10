@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Серафим Саровский'
-description = '1 August'
+description = '1 августа'
 weight = 1
 +++
 

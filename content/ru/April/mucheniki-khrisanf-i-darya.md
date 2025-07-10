@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Хрисанф и Дарья'
-description = '1 April'
+description = '1 апреля'
 weight = 1
 +++
 

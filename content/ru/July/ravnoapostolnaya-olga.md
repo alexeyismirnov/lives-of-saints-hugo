@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Равноапостольная Ольга'
-description = '24 July'
+description = '24 июля'
 weight = 24
 +++
 

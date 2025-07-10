@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Викентий Леринский'
-description = '6 June'
+description = '6 июня'
 weight = 6
 +++
 

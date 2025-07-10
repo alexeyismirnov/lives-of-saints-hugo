@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Филимон, Апфия, Архипп и Онисим'
-description = '5 December'
+description = '5 декабря'
 weight = 5
 +++
 

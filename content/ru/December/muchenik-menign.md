@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Менигн'
-description = '5 December'
+description = '5 декабря'
 weight = 5
 +++
 

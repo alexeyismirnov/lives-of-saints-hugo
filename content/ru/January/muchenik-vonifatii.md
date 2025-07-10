@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Вонифатий'
-description = '1 January'
+description = '1 января'
 weight = 1
 +++
 

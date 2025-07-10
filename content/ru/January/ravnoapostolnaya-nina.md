@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Равноапостольная Нина'
-description = '27 January'
+description = '27 января'
 weight = 27
 +++
 

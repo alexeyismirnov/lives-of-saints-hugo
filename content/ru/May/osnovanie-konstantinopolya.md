@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Основание Константинополя'
-description = '11 May'
+description = '11 мая'
 weight = 11
 +++
 

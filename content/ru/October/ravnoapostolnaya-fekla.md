@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Равноапостольная Фекла'
-description = '7 October'
+description = '7 октября'
 weight = 7
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Митрофан Византийский'
-description = '17 June'
+description = '17 июня'
 weight = 17
 +++
 

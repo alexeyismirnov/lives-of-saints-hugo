@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Церковное Новолетие'
-description = '14 September'
+description = '14 сентября'
 weight = 14
 +++
 

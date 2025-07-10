@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Апостол Иаков брат Господень'
-description = '5 November'
+description = '5 ноября'
 weight = 5
 +++
 

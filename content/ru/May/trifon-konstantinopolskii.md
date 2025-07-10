@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Трифон Константинопольский'
-description = '2 May'
+description = '2 мая'
 weight = 2
 +++
 

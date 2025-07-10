@@ -27,7 +27,8 @@ def create_md_file(output_dir, saint, feast_name_translated, num, lang, reading)
     Path(output_dir).mkdir(parents=True, exist_ok=True)
 
     # Create filename based on saint name (sanitized for filesystem)
-    filename = f"{saint.replace(' ', '_').replace('/', '_')}.md"
+    # filename = f"{saint.replace(' ', '_').replace('/', '_')}.md"
+    filename = f"{reading}.md"
     filepath = os.path.join(output_dir, filename)
 
     # MD file content

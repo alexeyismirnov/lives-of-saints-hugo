@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Миропия Хиосская'
-description = '15 December'
+description = '15 декабря'
 weight = 15
 +++
 

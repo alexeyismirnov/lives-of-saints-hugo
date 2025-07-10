@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Патриарх Феодор Константинопольский'
-description = '9 January'
+description = '9 января'
 weight = 9
 +++
 

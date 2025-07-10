@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученица Ия'
-description = '17 August'
+description = '17 августа'
 weight = 17
 +++
 

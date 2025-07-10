@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Маниул, Савел и Исмаил'
-description = '30 June'
+description = '30 июня'
 weight = 30
 +++
 

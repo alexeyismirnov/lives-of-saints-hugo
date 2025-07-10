@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Елевферий'
-description = '28 December'
+description = '28 декабря'
 weight = 28
 +++
 

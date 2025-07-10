@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Агафон Римский'
-description = '4 March'
+description = '4 марта'
 weight = 4
 +++
 

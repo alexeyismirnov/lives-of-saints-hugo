@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Анфир Римский'
-description = '18 August'
+description = '18 августа'
 weight = 18
 +++
 

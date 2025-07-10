@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Святой Григорий Неокесарийский'
-description = '30 November'
+description = '30 ноября'
 weight = 30
 +++
 

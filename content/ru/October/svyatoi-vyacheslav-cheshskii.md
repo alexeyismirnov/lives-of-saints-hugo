@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Святой Вячеслав Чешский'
-description = '11 October'
+description = '11 октября'
 weight = 11
 +++
 

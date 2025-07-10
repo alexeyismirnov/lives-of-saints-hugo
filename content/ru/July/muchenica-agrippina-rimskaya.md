@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученица Агриппина Римская'
-description = '6 July'
+description = '6 июля'
 weight = 6
 +++
 

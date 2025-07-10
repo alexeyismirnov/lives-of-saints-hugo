@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Фотий и Аникита'
-description = '25 August'
+description = '25 августа'
 weight = 25
 +++
 

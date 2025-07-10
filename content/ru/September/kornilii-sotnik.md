@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Корнилий Сотник'
-description = '26 September'
+description = '26 сентября'
 weight = 26
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Адриан Ондрусовский'
-description = '8 September'
+description = '8 сентября'
 weight = 8
 +++
 

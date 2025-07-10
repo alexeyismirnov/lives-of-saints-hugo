@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Память отцов семи вселенских Соборов'
-description = '31 May'
+description = '31 мая'
 weight = 31
 +++
 

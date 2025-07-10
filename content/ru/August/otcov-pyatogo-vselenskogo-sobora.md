@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Отцов пятого Вселенского Собора'
-description = '7 August'
+description = '7 августа'
 weight = 7
 +++
 

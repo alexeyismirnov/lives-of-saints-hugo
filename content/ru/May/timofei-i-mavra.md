@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Тимофей и Мавра'
-description = '16 May'
+description = '16 мая'
 weight = 16
 +++
 

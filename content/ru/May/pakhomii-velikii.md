@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Пахомий Великий'
-description = '28 May'
+description = '28 мая'
 weight = 28
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Панкратий Тавроменийский'
-description = '22 July'
+description = '22 июля'
 weight = 22
 +++
 

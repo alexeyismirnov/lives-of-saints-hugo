@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Собор 12 Апостолов'
-description = '13 July'
+description = '13 июля'
 weight = 13
 +++
 

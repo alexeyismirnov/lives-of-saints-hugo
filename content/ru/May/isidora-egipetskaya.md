@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Исидора Египетская'
-description = '23 May'
+description = '23 мая'
 weight = 23
 +++
 

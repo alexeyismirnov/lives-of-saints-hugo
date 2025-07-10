@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученицы Капитолина и Эротиида Каппадокийские'
-description = '9 November'
+description = '9 ноября'
 weight = 9
 +++
 

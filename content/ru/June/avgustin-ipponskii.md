@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Августин Иппонский'
-description = '28 June'
+description = '28 июня'
 weight = 28
 +++
 

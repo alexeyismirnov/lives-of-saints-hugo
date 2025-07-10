@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Марин и Астерий Кесарийские'
-description = '20 August'
+description = '20 августа'
 weight = 20
 +++
 

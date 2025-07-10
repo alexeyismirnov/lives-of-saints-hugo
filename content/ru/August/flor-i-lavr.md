@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Флор и Лавр'
-description = '31 August'
+description = '31 августа'
 weight = 31
 +++
 

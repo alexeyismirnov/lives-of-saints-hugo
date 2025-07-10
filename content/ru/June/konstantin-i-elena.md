@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Память Константина и Елены'
-description = '3 June'
+description = '3 июня'
 weight = 3
 +++
 

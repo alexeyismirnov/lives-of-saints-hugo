@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Покров Пресвятой Богородицы'
-description = '14 October'
+description = '14 октября'
 weight = 14
 +++
 

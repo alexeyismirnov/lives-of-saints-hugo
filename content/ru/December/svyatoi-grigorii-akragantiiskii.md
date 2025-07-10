@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Святой Григорий Акрагантийский'
-description = '6 December'
+description = '6 декабря'
 weight = 6
 +++
 

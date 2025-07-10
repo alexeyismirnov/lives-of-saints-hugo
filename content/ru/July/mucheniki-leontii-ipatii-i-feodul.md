@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Леонтий, Ипатий и Феодул'
-description = '1 July'
+description = '1 июля'
 weight = 1
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Всемилостивый Спас и Пресвятая Богородица'
-description = '14 August'
+description = '14 августа'
 weight = 14
 +++
 

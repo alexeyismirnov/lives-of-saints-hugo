@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Успение Пресвятой Богородицы'
-description = '28 August'
+description = '28 августа'
 weight = 28
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Пророк Исайя'
-description = '22 May'
+description = '22 мая'
 weight = 22
 +++
 

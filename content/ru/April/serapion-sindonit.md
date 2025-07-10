@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Серапион Синдонит'
-description = '20 April'
+description = '20 апреля'
 weight = 20
 +++
 

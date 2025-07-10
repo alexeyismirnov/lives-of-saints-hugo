@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Иосиф Песнописец'
-description = '17 April'
+description = '17 апреля'
 weight = 17
 +++
 

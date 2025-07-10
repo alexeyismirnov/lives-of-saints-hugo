@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Великомученик Пантелеимон'
-description = '9 August'
+description = '9 августа'
 weight = 9
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Терентия и Неониллы'
-description = '10 November'
+description = '10 ноября'
 weight = 10
 +++
 

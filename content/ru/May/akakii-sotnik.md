@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Акакий Сотник'
-description = '20 May'
+description = '20 мая'
 weight = 20
 +++
 

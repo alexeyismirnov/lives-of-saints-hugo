@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Агафангел Преображенский'
-description = '12 November'
+description = '12 ноября'
 weight = 12
 +++
 

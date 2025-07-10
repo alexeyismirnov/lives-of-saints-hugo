@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Онуфрий Великий'
-description = '25 June'
+description = '25 июня'
 weight = 25
 +++
 

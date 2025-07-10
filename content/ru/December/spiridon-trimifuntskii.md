@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Спиридон Тримифунтский'
-description = '25 December'
+description = '25 декабря'
 weight = 25
 +++
 

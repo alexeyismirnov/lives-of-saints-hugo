@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Епимах Новый'
-description = '13 November'
+description = '13 ноября'
 weight = 13
 +++
 

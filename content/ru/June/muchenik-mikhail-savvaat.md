@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Михаил Савваат'
-description = '5 June'
+description = '5 июня'
 weight = 5
 +++
 

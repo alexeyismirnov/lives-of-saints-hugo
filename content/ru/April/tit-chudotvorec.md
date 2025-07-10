@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Тит Чудотворец'
-description = '15 April'
+description = '15 апреля'
 weight = 15
 +++
 

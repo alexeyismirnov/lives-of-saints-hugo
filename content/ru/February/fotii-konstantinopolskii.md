@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Фотий Константинопольский'
-description = '19 February'
+description = '19 февраля'
 weight = 19
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Воздвижение Креста Господня'
-description = '27 September'
+description = '27 сентября'
 weight = 27
 +++
 

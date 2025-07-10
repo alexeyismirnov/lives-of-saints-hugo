@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Перенесение мощей первомученика Стефана'
-description = '15 August'
+description = '15 августа'
 weight = 15
 +++
 

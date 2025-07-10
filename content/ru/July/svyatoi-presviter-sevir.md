@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Святой пресвитер Севир'
-description = '10 July'
+description = '10 июля'
 weight = 10
 +++
 

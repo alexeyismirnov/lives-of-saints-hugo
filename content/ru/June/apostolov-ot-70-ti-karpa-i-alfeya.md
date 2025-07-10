@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Апостолов от 70-ти Карпа и Алфея'
-description = '8 June'
+description = '8 июня'
 weight = 8
 +++
 

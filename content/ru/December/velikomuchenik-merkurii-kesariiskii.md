@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Великомученик Меркурий Кесарийский'
-description = '7 December'
+description = '7 декабря'
 weight = 7
 +++
 

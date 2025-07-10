@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Святые мученики Кизические'
-description = '12 May'
+description = '12 мая'
 weight = 12
 +++
 

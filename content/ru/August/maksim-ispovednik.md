@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Максим Исповедник'
-description = '26 August'
+description = '26 августа'
 weight = 26
 +++
 

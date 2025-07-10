@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Мина, Гермоген и Евграф'
-description = '23 December'
+description = '23 декабря'
 weight = 23
 +++
 

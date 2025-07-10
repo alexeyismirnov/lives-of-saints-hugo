@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Анатолий Константинопольский'
-description = '16 July'
+description = '16 июля'
 weight = 16
 +++
 

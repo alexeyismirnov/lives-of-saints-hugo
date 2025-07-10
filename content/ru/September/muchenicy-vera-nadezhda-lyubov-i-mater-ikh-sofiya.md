@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученицы Вера, Надежда, Любовь и матерь их София'
-description = '30 September'
+description = '30 сентября'
 weight = 30
 +++
 

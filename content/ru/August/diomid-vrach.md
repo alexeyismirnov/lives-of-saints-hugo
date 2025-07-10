@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Диомид Врач'
-description = '29 August'
+description = '29 августа'
 weight = 29
 +++
 

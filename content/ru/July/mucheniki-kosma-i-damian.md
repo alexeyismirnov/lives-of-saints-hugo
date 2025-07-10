@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Косма и Дамиан'
-description = '14 July'
+description = '14 июля'
 weight = 14
 +++
 

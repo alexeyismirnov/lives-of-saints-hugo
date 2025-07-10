@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Иринарх и Акакий Севастийские'
-description = '11 December'
+description = '11 декабря'
 weight = 11
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Порфирий'
-description = '28 September'
+description = '28 сентября'
 weight = 28
 +++
 

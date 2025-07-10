@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Епифаний Кипрский'
-description = '25 May'
+description = '25 мая'
 weight = 25
 +++
 

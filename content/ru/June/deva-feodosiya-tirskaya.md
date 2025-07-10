@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Дева Феодосия Тирская'
-description = '11 June'
+description = '11 июня'
 weight = 11
 +++
 

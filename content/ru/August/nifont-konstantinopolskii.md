@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Нифонт Константинопольский'
-description = '24 August'
+description = '24 августа'
 weight = 24
 +++
 

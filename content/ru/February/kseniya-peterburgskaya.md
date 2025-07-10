@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Ксения Петербургская'
-description = '6 February'
+description = '6 февраля'
 weight = 6
 +++
 

@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Апостол Иуда'
-description = '2 July'
+description = '2 июля'
 weight = 2
 +++
 

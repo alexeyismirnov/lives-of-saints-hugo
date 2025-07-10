@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Преподобный Исихий Хоривит'
-description = '16 October'
+description = '16 октября'
 weight = 16
 +++
 

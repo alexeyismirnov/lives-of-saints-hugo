@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Пророк Даниил'
-description = '30 December'
+description = '30 декабря'
 weight = 30
 +++
 

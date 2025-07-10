@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Дионисий Великий'
-description = '18 October'
+description = '18 октября'
 weight = 18
 +++
 

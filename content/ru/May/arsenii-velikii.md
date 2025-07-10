@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Арсений Великий'
-description = '21 May'
+description = '21 мая'
 weight = 21
 +++
 

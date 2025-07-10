@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Апостолы от 70-ти: Ераст и Олимп'
-description = '23 November'
+description = '23 ноября'
 weight = 23
 +++
 

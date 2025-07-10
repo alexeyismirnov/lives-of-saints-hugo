@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Григорий Просветитель'
-description = '13 October'
+description = '13 октября'
 weight = 13
 +++
 

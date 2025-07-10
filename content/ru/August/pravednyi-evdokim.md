@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Праведный Евдоким'
-description = '13 August'
+description = '13 августа'
 weight = 13
 +++
 

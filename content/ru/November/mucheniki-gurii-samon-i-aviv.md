@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Гурий, Самон и Авив'
-description = '28 November'
+description = '28 ноября'
 weight = 28
 +++
 

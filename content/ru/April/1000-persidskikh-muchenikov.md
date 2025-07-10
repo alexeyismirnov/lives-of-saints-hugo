@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Персидские Мученики'
-description = '27 April'
+description = '27 апреля'
 weight = 27
 +++
 

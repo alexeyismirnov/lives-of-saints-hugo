@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Глеб Владимирский'
-description = '3 July'
+description = '3 июля'
 weight = 3
 +++
 

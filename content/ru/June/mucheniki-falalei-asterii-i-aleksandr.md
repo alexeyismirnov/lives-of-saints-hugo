@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Фалалей, Астерий и Александр'
-description = '2 June'
+description = '2 июня'
 weight = 2
 +++
 

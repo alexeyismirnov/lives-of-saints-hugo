@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Пофин Лионский'
-description = '15 June'
+description = '15 июня'
 weight = 15
 +++
 

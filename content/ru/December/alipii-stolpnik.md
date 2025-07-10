@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Алипий Столпник'
-description = '9 December'
+description = '9 декабря'
 weight = 9
 +++
 

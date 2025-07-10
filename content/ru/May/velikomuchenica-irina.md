@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Великомученица Ирина'
-description = '18 May'
+description = '18 мая'
 weight = 18
 +++
 

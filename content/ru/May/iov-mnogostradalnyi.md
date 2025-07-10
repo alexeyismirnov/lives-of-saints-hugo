@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Иов Многострадальный'
-description = '19 May'
+description = '19 мая'
 weight = 19
 +++
 

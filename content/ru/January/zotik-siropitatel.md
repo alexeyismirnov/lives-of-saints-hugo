@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Зотик Сиропитатель'
-description = '12 January'
+description = '12 января'
 weight = 12
 +++
 

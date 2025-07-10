@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Голиндуха Персидская'
-description = '25 July'
+description = '25 июля'
 weight = 25
 +++
 

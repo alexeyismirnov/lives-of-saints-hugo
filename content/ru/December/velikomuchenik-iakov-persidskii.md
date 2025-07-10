@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Великомученик Иаков Персидский'
-description = '10 December'
+description = '10 декабря'
 weight = 10
 +++
 

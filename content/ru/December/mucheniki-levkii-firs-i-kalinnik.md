@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Левкий, Фирс и Калинник'
-description = '27 December'
+description = '27 декабря'
 weight = 27
 +++
 

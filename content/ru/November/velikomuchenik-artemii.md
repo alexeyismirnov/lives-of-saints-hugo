@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Великомученик Артемий'
-description = '2 November'
+description = '2 ноября'
 weight = 2
 +++
 

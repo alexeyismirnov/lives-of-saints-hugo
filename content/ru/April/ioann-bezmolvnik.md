@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Иоанн Безмолвник'
-description = '12 April'
+description = '12 апреля'
 weight = 12
 +++
 

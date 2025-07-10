@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученики Лукиан, Максимиан и Юлиан'
-description = '16 June'
+description = '16 июня'
 weight = 16
 +++
 

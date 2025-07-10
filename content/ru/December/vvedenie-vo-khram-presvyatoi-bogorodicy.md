@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Введение во храм Пресвятой Богородицы'
-description = '4 December'
+description = '4 декабря'
 weight = 4
 +++
 

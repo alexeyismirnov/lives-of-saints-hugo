@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Рождество Иоанна Крестителя'
-description = '7 July'
+description = '7 июля'
 weight = 7
 +++
 

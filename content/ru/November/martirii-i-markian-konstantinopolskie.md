@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мартирий и Маркиан Константинопольские'
-description = '7 November'
+description = '7 ноября'
 weight = 7
 +++
 

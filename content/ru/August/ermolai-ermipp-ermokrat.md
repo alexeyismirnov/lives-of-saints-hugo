@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Ермолай, Ермипп и Ермократ'
-description = '8 August'
+description = '8 августа'
 weight = 8
 +++
 

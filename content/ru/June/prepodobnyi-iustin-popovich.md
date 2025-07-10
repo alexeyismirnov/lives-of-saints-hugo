@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Преподобный Иустин Попович'
-description = '14 June'
+description = '14 июня'
 weight = 14
 +++
 

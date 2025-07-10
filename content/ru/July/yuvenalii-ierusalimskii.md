@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Ювеналий Иерусалимский'
-description = '15 July'
+description = '15 июля'
 weight = 15
 +++
 

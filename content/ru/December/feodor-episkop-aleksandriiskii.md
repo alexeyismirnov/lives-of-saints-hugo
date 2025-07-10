@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Феодор «епископ Александрийский»'
-description = '16 December'
+description = '16 декабря'
 weight = 16
 +++
 

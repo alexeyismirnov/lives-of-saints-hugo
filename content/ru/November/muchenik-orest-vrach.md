@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Мученик Орест Врач'
-description = '23 November'
+description = '23 ноября'
 weight = 23
 +++
 

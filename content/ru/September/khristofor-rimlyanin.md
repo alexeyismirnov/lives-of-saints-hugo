@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Христофор Римлянин'
-description = '12 September'
+description = '12 сентября'
 weight = 12
 +++
 

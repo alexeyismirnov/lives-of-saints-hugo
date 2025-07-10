@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Дометий Персидский'
-description = '20 August'
+description = '20 августа'
 weight = 20
 +++
 

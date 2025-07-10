@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Евангелист Марк'
-description = '8 May'
+description = '8 мая'
 weight = 8
 +++
 

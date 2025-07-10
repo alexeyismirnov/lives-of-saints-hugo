@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Потапий Фивский, Константинопольский'
-description = '21 December'
+description = '21 декабря'
 weight = 21
 +++
 

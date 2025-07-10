@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Происхождение Честных Древ'
-description = '14 August'
+description = '14 августа'
 weight = 14
 +++
 

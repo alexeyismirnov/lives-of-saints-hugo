@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Святой великомученик Мина'
-description = '24 November'
+description = '24 ноября'
 weight = 24
 +++
 

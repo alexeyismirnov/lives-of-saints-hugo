@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Анастасия Римская'
-description = '11 November'
+description = '11 ноября'
 weight = 11
 +++
 
