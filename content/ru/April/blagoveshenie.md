@@ -2,8 +2,8 @@
 draft = false
 hidden = true
 linkTitle = 'Благовещение'
-description = 'Благовещение Пресвятой Богородицы'
-weight = 2
+description = '7 апреля'
+weight = 7
 +++
 
 {{% include file="content/ru/lives/blagoveshenie.md" %}}
