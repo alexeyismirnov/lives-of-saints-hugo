@@ -6,8 +6,10 @@ theme = ['hugo-theme-relearn']
 [params]
   themeVariant = ['relearn-bright']
   disableSearch = true
-  disableSearchIndex = true
-  disableSearchPage = true
+
+[params.search]
+  disableIndex = true
+  disablePage = true
 
 [languages]
   [languages.en]

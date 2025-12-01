@@ -26,7 +26,7 @@ if len(sys.argv) != 3:
     sys.exit(0)
 
 month =  sys.argv[2]
-lang = 'ru'
+lang = 'en'
 
 Path("output/%s" % month).mkdir(parents=True, exist_ok=True)
 
