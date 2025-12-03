@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Феодосий Великий'
-description = '24 февраля'
+description = '24 января'
 weight = 24
 +++
 
