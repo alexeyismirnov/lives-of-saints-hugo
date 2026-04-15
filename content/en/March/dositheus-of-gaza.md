@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Dositheus of Gaza'
-description = '4 April'
+description = '4 March'
 weight = 4
 +++
 

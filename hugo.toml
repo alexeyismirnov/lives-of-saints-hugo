@@ -27,3 +27,10 @@ theme = ['hugo-theme-relearn']
     weight = 20
     [languages.ru.params]
       landingPageName = 'Главная'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+

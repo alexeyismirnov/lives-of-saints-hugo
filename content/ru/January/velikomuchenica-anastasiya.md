@@ -2,8 +2,8 @@
 draft = false
 hidden = true
 linkTitle = 'Великомученица Анастасия'
-description = '2 января'
-weight = 2
+description = '4 января'
+weight = 4
 +++
 
 {{% include file="content/ru/lives/velikomuchenica-anastasiya.md" %}}

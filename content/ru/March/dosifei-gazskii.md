@@ -2,7 +2,7 @@
 draft = false
 hidden = true
 linkTitle = 'Досифей Газский'
-description = '4 апреля'
+description = '4 марта'
 weight = 4
 +++
 
